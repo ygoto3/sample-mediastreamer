@@ -1,0 +1,5 @@
+add_subdirectory(ReceiverApp)
+add_subdirectory(SenderApp)
+add_subdirectory(RegistrarApp)
+add_subdirectory(Overlay)
+add_subdirectory(framework)

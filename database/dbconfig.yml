@@ -1,0 +1,5 @@
+development:
+    dialect: mysql
+    dir: db/migrations
+    datasource: root:mysql@tcp(127.0.0.1)/sample_mediastreamer?charset=utf8mb4&collation=utf8mb4_general_ci&parseTime=true
+
